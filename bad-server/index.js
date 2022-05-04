@@ -12,5 +12,5 @@ app.post("/data", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`);
+  console.log(`Naughty data capture app listening on port ${port}`);
 });
