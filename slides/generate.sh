@@ -1,1 +1,1 @@
-npx @marp-team/marp-cli@latest slides.md -o output.html
+npx @marp-team/marp-cli@latest slides.md --html -o output.html
